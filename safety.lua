@@ -1,3 +1,4 @@
+print("SAFETY HUB IS LIVE")
 -- Safety Hub Master Logic
 local SafetyHub = {}
 
